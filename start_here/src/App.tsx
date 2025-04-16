@@ -1,6 +1,5 @@
 import logo from 'public./vite.svg';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import './App.css';
 import './index.css';
 import { Button, Alert, Breadcrumb, Card, Form } from 'react-bootstrap';
 
