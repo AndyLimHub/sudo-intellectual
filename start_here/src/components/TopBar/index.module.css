@@ -1,7 +1,7 @@
 .Container {
   position: fixed;
   top: 0;
-  left: 241px;
+  left: 11.2%;
   height: 60px; /* Adjust height as needed */
   width: 100%; /* Full width of the screen */
   background-color: white;
@@ -18,7 +18,7 @@
 
 .Toolbar {
   display: flex;
-  gap: 0.5rem;
+  gap: 0.2rem;
   padding: 0;
   margin: 0;
 }
